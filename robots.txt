@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lweup.github.io/yEG/sitemap.yEG.gz
